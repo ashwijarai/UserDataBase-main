@@ -5,7 +5,6 @@
 This application can Add and Find user messages from a service that has a REST interface.
 
 ## Architecture:
-
 ● Clean approach / loosely coupled architecture
 ● MVVM design pattern
 ● Combine FrameWork - Reactive programming
