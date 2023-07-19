@@ -14,8 +14,8 @@ This application can Add and Find user messages from a service that has a REST i
 		○ Presentation layer - Model, Screen, Data binding
 		○ Action layer - Interface and Service
 		○ Network layer - APIs
-● Packages - Swift Package Manager
-● Added SwiftLint script in build phases
+● Packages - Swift Package Manager.
+● Added SwiftLint script in build phases.
 
  
 ## Unit tests / Mock Tests
